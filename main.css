@@ -1,0 +1,19 @@
+button{
+          font-size: 20px;
+          padding: 20px 45px;
+          background-color: transparent;
+          border: 5px solid white;
+          color: white;
+          letter-spacing: 1.5px;
+          border-radius: 50px;
+          cursor: pointer;
+          outline: none;
+      }
+      body{
+          background-color: aquamarine;
+      }
+      #c{
+          font-family: Verdana, Geneva, Tahoma, sans-serif;
+          color: bisque;
+          background-color: cadetblue;
+      }
